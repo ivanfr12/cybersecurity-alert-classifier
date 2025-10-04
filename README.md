@@ -1,4 +1,5 @@
-![Cybersecurity AI Banner](images/banner.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/18569986-3e5e-4149-b68a-458f25ad1a20" />
+
 
 # 🧠 Cybersecurity Alert Classifier
 
