@@ -95,7 +95,7 @@ Contiene las siguientes columnas:
 
 Proyecto creado por **Ivan Rodriguez**  
 📧 Contacto: ivan.rodriguez.cv@gmail.com  
-🔗 LinkedIn: [[tu perfil]](https://www.linkedin.com/in/ivan-francisco-rodriguez/)  
+🔗 LinkedIn: https://www.linkedin.com/in/ivan-francisco-rodriguez/
 📁 Repositorio: https://github.com/ivanfr12/cybersecurity-alert-classifier
 
 ---
